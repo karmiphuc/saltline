@@ -6,7 +6,9 @@ This repository exists to make the shared game easy to play through GitHub Pages
 
 ## Play
 
-Use the website link in this repository's **About** section. The game runs in your browser with no installation or account integration.
+**[Play Saltline](https://karmiphuc.github.io/saltline/)**
+
+The game runs in your browser with no installation or account integration.
 
 Your mission is to disable three uplink relays in a container port and reach the extraction boat while avoiding hostile drones and robotic hounds.
 
